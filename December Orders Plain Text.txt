@@ -1,0 +1,64 @@
+"Cakes","Black Forest","Single",8.00,1,8.00
+"Cakes","Black Walnut","Single",5.00,1,5.00
+"Cakes","Buche de Noel (Christmas Cake)- Winter","Single",12.00,1,12.00
+"Cakes","Carrot Cake","Single",8.00,1,8.00
+"Cakes","Cheesecake","Single",18.00,1,18.00
+"Cakes","Coconut","Single",2.00,1,2.00
+"Cakes","Cookies n' Cream","Single",1.00,1,1.00
+"Cakes","French Vanilla","Single",1.00,1,1.00
+"Cakes","Fudge Chocolate","Single",6.00,1,6.00
+"Cakes","German Chocolate","Single",2.00,1,2.00
+"Cakes","Gingerbread - Winter","Single",4.00,1,4.00
+"Cakes","Italian Rum","Single",4.00,1,4.00
+"Cakes","Red Velvet","Single",1.00,1,1.00
+"Cookies","Butter Pecan","One Dozen",1.00,12,12.00
+"Cookies","Butter Pecan","Single",1.00,1,1.00
+"Cookies","Butterscotch","Single",3.00,1,3.00
+"Cookies","Chocolate Banana Walnut","One Dozen",1.00,12,12.00
+"Cookies","Chocolate Banana Walnut","Single",1.00,1,1.00
+"Cookies","Chocolate Chip","Half-Dozen",1.00,6,6.00
+"Cookies","Chocolate Chip","One Dozen",2.00,12,24.00
+"Cookies","Chocolate Chip","Single",5.00,1,5.00
+"Cookies","Cranberry Walnut","One Dozen",3.00,12,36.00
+"Cookies","Fudge Brownie","One Dozen",7.00,12,84.00
+"Cookies","Fudge Brownie","Single",3.00,1,3.00
+"Cookies","Ginger Shortbread","Half-Dozen",1.00,6,6.00
+"Cookies","Ginger Shortbread","One Dozen",5.00,12,60.00
+"Cookies","Oatmeal Raisin","One Dozen",1.00,12,12.00
+"Cookies","Peanut Butter","Half-Dozen",1.00,6,6.00
+"Cookies","Snickerdoodle","One Dozen",1.00,12,12.00
+"Cookies","Snickerdoodle","Single",3.00,1,3.00
+"Cookies","White Chocolate Macademia Nut","Half-Dozen",3.00,6,18.00
+"Cookies","White Chocolate Macademia Nut","One Dozen",2.00,12,24.00
+"Cupcakes","Candy Cane- Winter","One Dozen",3.00,12,36.00
+"Cupcakes","Caramel Mocha Latte","One Dozen",6.00,12,72.00
+"Cupcakes","Carrot Cake","One Dozen",1.00,12,12.00
+"Cupcakes","Chocolate Amaretto","One Dozen",3.00,12,36.00
+"Cupcakes","French french vanilla","One Dozen",3.00,12,36.00
+"Cupcakes","Pineapple Coconut","One Dozen",2.00,12,24.00
+"Pastries","Almond Croissant","One Dozen",2.00,12,24.00
+"Pastries","Almond Croissant","Single",4.00,1,4.00
+"Pastries","Brownies","One Dozen",1.00,12,12.00
+"Pastries","Chocolate Croissant","Half-Dozen",1.00,6,6.00
+"Pastries","Chocolate Croissant","Single",1.00,1,1.00
+"Pastries","Chocolate Mousse Cup","One Dozen",4.00,12,48.00
+"Pastries","Chocolate Strawberries","One Dozen",12.00,12,144.00
+"Pastries","Cream Puffs","One Dozen",5.00,12,60.00
+"Pastries","Crème Brulee","Single",1.00,1,1.00
+"Pastries","Éclair","One Dozen",4.00,12,48.00
+"Pastries","Fruit Tartlette","One Dozen",6.00,12,72.00
+"Pastries","Key Lime Tartlette","One Dozen",3.00,12,36.00
+"Pastries","Mango Mousse Cup","Single",1.00,1,1.00
+"Pastries","Mini Cheesecake, Plain","One Dozen",1.00,12,12.00
+"Pastries","Rasberry Chocolate Tartlette","One Dozen",3.00,12,36.00
+"Pastries","Tiramisu","One Dozen",10.00,12,120.00
+"Pies","Apple","Single",5.00,1,5.00
+"Pies","Apple Crumb","Single",3.00,1,3.00
+"Pies","Chocolate Chess","Single",5.00,1,5.00
+"Pies","Coconut Cream","Single",1.00,1,1.00
+"Pies","French Silk","Single",5.00,1,5.00
+"Pies","Key Lime","Single",4.00,1,4.00
+"Pies","Peanut Butter Chocolate","Single",3.00,1,3.00
+"Pies","Pecan","Single",10.00,1,10.00
+"Pies","Pumpkin","Single",9.00,1,9.00
+"Pies","Sweet Potato","Single",3.00,1,3.00

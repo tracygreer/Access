@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<catalog>
+   <book id="bk101">
+      <author>Gambardella, Matthew</author>
+      <title>How To Bake</title>
+      <genre>Baking</genre>
+      <publish_date>2000-10-01</publish_date>
+      <description>Basic baking book.</description>
+   </book>
+   <book id="bk102">
+      <author>Ralls, Kim</author>
+      <title>Baking The British Way</title>
+      <genre>Baking</genre>
+      <publish_date>2000-12-16</publish_date>
+      <description>Based on the popular TV series.</description>
+   </book>
+   <book id="bk103">
+      <author>Corets, Eva</author>
+      <title>Puff, Puff, Pastries</title>
+      <genre>Pastries</genre>
+      <publish_date>2000-11-17</publish_date>
+      <description>Making a variety of pastries.</description>
+   </book>
+   <book id="bk104">
+      <author>Corets, Eva</author>
+      <title>Love To Cook</title>
+      <genre>Cooking</genre>
+      <publish_date>2001-03-10</publish_date>
+      <description>A basic cookbook.</description>
+   </book>
+   <book id="bk105">
+      <author>Corets, Eva</author>
+      <title>Fondant, Fondon't</title>
+      <genre>Decorating</genre>
+      <publish_date>2001-09-10</publish_date>
+      <description>Frosting techniques.</description>
+   </book>
+   <book id="bk106">
+      <author>Randall, Cynthia</author>
+      <title>All About Cakes</title>
+      <genre>Cakes</genre>
+      <publish_date>2000-09-02</publish_date>
+      <description>Variety of cake baking and decorating techniques.</description>
+   </book>
+   <book id="bk107">
+      <author>Thurman, Paula</author>
+      <title>Holiday Baking</title>
+      <genre>Special Occasions</genre>
+      <publish_date>2000-11-02</publish_date>
+      <description>Baked goods for a variety of holidays.</description>
+   </book>
+   <book id="bk108">
+      <author>Knorr, Stefan</author>
+      <title>Creepy Crawlies</title>
+      <genre>Holiday Baking</genre>
+      <publish_date>2000-12-06</publish_date>
+      <description>Baking specifically for Halloween treats.</description>
+   </book>
+</catalog>
